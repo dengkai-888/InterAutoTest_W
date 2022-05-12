@@ -1,0 +1,13 @@
+imc_test_dev:
+ host: 192.168.16.185
+ port: 5432
+ dbname: dbsicwn
+ username: dev
+ password: sic@2021
+---
+imc_test_pg:
+ host: 192.168.16.185
+ port: 5432
+ dbname: lingtong
+ username: lingtong
+ password: lingtong2022
